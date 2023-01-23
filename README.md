@@ -1,4 +1,4 @@
-# WELCOME
+# Frontend
 
 ## 23/01/2023
 ### Nika Mikeltadze
